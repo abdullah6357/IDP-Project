@@ -1,4 +1,3 @@
-# Force SQL language detection
-*.sql linguist-language=SQL
-*.dbquery.ipynb linguist-language=SQL
-*.lvdash.json linguist-language=JSON
+git add queries.sql .gitattributes
+git commit -m "Add SQL queries and force language detection"
+git push

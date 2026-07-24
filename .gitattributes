@@ -1,3 +1,0 @@
-git add queries.sql .gitattributes
-git commit -m "Add SQL queries and force language detection"
-git push

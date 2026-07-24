@@ -1,0 +1,4 @@
+# Force SQL language detection
+*.sql linguist-language=SQL
+*.dbquery.ipynb linguist-language=SQL
+*.lvdash.json linguist-language=JSON
